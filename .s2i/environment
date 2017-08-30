@@ -1,0 +1,2 @@
+KIE_CONTAINER_DEPLOYMENT_OVERRIDE=ApplicationTest=com.example.openshift:example_workflow:1.0
+KIE_CONTAINER_REDIRECT_ENABLED=false
